@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter App Development**
 
-- 📫 How to reach me **shibiliazwin23@gmail.com**
+- 📫 How to reach me **mohadshibilikp@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1z1gU5_-8Z2hlXWJWqyQ0P4EJN75u46Ye/view?usp=drive_link](https://drive.google.com/file/d/1z1gU5_-8Z2hlXWJWqyQ0P4EJN75u46Ye/view?usp=drive_link)
 
